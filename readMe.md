@@ -19,15 +19,10 @@ Note that this script does not have an export statement and must be used directl
 Here’s how to use the this package
 
 1. **Initialize Code & url**
-    This will be the env code for this project 
+    you need to have g form code
 
     <br/>
 
-    - url = https://docs.google.com/forms/u/0/d/e/1FAIpQLSfSg9QHEPyMJD5IJQf1pTA9zKgeXYbk6gJB8HC85LFEbPeqnw/formResponse
-    - NIM Code = **1678448260**
-    - Name Code = **1638511894**
-    - Email Code = **977517817**
-    - Link Code = **372655798**
 
     <br />
 

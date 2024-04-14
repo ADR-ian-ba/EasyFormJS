@@ -1,6 +1,6 @@
 {
   "name": "easyformjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to link the power of google forms, with your own custom ui",
   "main": "googleForm.js",
   "scripts": {
