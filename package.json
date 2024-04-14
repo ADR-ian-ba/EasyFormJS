@@ -1,0 +1,32 @@
+{
+  "name": "easyformjs",
+  "version": "1.0.0",
+  "description": "A package to link the power of google forms, with your own custom ui",
+  "main": "googleForm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADR-ian-ba/EasyFormJS.git"
+  },
+  "keywords": [
+    "form",
+    "googleform",
+    "formlinker",
+    "googleformcustomui",
+    "gformcustomui",
+    "customui",
+    "fromcustomizer",
+    "formcustomize",
+    "formlinkerui",
+    "googleformconnector",
+    "googleformadapter"
+  ],
+  "author": "Adrian Purnama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADR-ian-ba/EasyFormJS/issues"
+  },
+  "homepage": "https://github.com/ADR-ian-ba/EasyFormJS#readme"
+}
